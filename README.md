@@ -1,1 +1,43 @@
 # Adidas-US-Interactive-Sales-Dashboard
+## Project Purpose
+
+The purpose of this project is to create an interactive sales dashboard for Adidas to visualize and track various aspects of sales performance across the United States. This dashboard enables stakeholders to analyze sales trends, identify key revenue-generating regions, and assess the impact of different sales methods and retailers on overall performance. By providing a consolidated view of sales data, the dashboard serves as a strategic tool for data-driven decision-making and helps to optimize sales strategies across regions and products.
+
+## Dataset
+
+The dataset used for this project includes detailed sales records from Adidas, specifically targeting Foot Locker's sales transactions across different product categories, dates, and sales methods. The data encompasses variables such as:
+- **Retailer Information**: Name and ID of the retailer (e.g., Foot Locker).
+- **Sales Details**: Invoice date, region, state, city, product category, price per unit, units sold, total sales, operating profit, and operating margin.
+- **Sales Method**: Channels through which products are sold, including in-store, online, and outlet sales.
+
+This dataset provides insights into the volume and profitability of Adidas products sold in various locations and through different sales channels, allowing for a granular analysis of sales patterns.
+
+## Approach
+
+The project follows a systematic approach to transform raw sales data into an interactive and visually engaging dashboard:
+
+1. **Data Cleaning and Preparation**: The dataset was pre-processed to handle any missing or inconsistent values and formatted for ease of analysis.
+2. **Data Analysis**: Key metrics, including total sales, operating profit, and margin percentages, were computed to provide insights at a summary level.
+3. **Visualization and Dashboard Development**: Using data visualization tools, multiple charts and graphs were created to provide an interactive experience. The dashboard was designed to display:
+   - **Sales Over Time**: A line chart showing sales trends by month.
+   - **Sales by Region**: A map indicating the sales distribution across various regions in the US.
+   - **Sales Methods**: A pie chart representing the percentage share of each sales method (in-store, online, outlet).
+   - **Sales by Retailers**: A bar chart comparing sales contributions by different retail partners.
+
+## Business Questions to Answer
+
+The dashboard is designed to answer the following business questions:
+
+1. **What are the sales trends over time?**  
+   This helps identify peak sales periods and allows for seasonal planning.
+
+2. **Which regions generate the highest sales?**  
+   Understanding regional performance aids in targeting marketing efforts and optimizing supply chain logistics.
+
+3. **What is the distribution of sales across different methods (in-store, online, outlet)?**  
+   Insights into sales channels help evaluate the success of each method and determine potential areas for expansion.
+
+4. **Which retailers contribute the most to Adidas' sales?**  
+   Identifying top-performing retailers supports relationship management and strategic partnerships.
+
+---
