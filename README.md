@@ -5,12 +5,11 @@ The purpose of this project is to create an interactive sales dashboard for Adid
 
 ## Dataset
 
-The dataset used for this project includes detailed sales records from Adidas, specifically targeting Foot Locker's sales transactions across different product categories, dates, and sales methods. The data encompasses variables such as:
+The dataset used for this project includes detailed sales records from Adidas across different product categories, dates, and sales methods. The data encompasses variables such as:
 - **Retailer Information**: Name and ID of the retailer (e.g., Foot Locker).
 - **Sales Details**: Invoice date, region, state, city, product category, price per unit, units sold, total sales, operating profit, and operating margin.
 - **Sales Method**: Channels through which products are sold, including in-store, online, and outlet sales.
 
-This dataset provides insights into the volume and profitability of Adidas products sold in various locations and through different sales channels, allowing for a granular analysis of sales patterns.
 
 ## Approach
 
